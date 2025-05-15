@@ -1957,7 +1957,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fb046616-34a4-4f35-89f3-6ac4843f4c75")
 	)
-	(gr_text "Inventer connector V1.0 2025"
+	(gr_text "Inverter connector V1.0 2025"
 		(at 153.7 105.2 0)
 		(layer "F.SilkS" knockout)
 		(uuid "928d1362-bef1-45e2-98b0-88a4d754fcc7")

@@ -5,7 +5,7 @@
 	(uuid "b652b05a-4e3d-4ad1-b032-18886abe7d45")
 	(paper "A4")
 	(title_block
-		(title "Inventer_Connector")
+		(title "Inverter_Connector")
 		(date "08.05.2025")
 		(rev "${REVISION}")
 		(company "Author: Michał Błotniak")
